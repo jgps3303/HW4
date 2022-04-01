@@ -4,11 +4,23 @@ switch(food)
     case 0:
         FOOD;="拉麵";
         break;
-    case 1 "義大利麵":
+    case 1 :
         FOOD;="義大利麵";
         break;
-    case 2 "沙拉":
+    case 2 :
         FOOD;="沙拉";
+<<<<<<< HEAD
+=======
+        break;
+    case 3:
+        FOOD="juice";
+        break;
+    case 4:
+       FOOD="meat balls";
+       break;
+    case 5:
+        FOOD="steak";
+>>>>>>> B1
         break;
     default:
         Console.WriteLine("沒賣QQ");
