@@ -9,18 +9,15 @@ switch(food)
         break;
     case 2 :
         FOOD;="沙拉";
-<<<<<<< HEAD
-=======
         break;
     case 3:
         FOOD="juice";
         break;
     case 4:
-       FOOD="meat balls";
-       break;
+        FOOD="meat balls";
+        break;
     case 5:
         FOOD="steak";
->>>>>>> B1
         break;
     default:
         Console.WriteLine("沒賣QQ");
