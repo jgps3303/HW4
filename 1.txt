@@ -1,14 +1,14 @@
 switch(food)
 
 {   
-    case "拉麵":
-        Console.WriteLine("300");
+    case 0:
+        FOOD;="拉麵";
         break;
-    case "義大利麵":
-        Console.WriteLine("200");
+    case 1 "義大利麵":
+        FOOD;="義大利麵";
         break;
-    case "沙拉":
-        Console.WriteLine("60");
+    case 2 "沙拉":
+        FOOD;="沙拉";
         break;
     default:
         Console.WriteLine("沒賣QQ");
